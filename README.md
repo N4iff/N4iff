@@ -1,5 +1,5 @@
 <h1 align="center">Naif Aldrees</h1>
-<h3 align="center">ML & Data Engineering • Production ML Pipelines • AI Systems</h3>
+<h3 align="center">AI & Data Engineering • Production ML Pipelines • AI Systems</h3>
 
 ---
 
@@ -105,9 +105,3 @@ End-to-end ML system with:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4iff&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4iff&layout=compact&theme=dark" />
-</p>
