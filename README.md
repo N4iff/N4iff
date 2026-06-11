@@ -5,7 +5,7 @@
 
 ## About Me
 
-Computer Science student focused on **machine learning, data engineering, and AI systems**.  
+Recent Computer Science graduate focused on **machine learning, data engineering, and AI systems**.  
 I build end-to-end ML pipelines — from data ingestion and feature engineering to model serving, APIs, and cloud deployment.
 
 Strong focus on:
