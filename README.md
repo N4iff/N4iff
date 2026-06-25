@@ -1,11 +1,11 @@
 <h1 align="center">Naif Aldrees</h1>
-<h3 align="center">AI & Data Engineering • Production ML Pipelines • AI Systems</h3>
+<h3 align="center">AI Engineering • Production ML Pipelines • AI Systems</h3>
 
 ---
 
 ## About Me
 
-Recent Computer Science graduate focused on **machine learning, data engineering, and AI systems**.  
+Recent Computer Science graduate focused on **AI systems, machine learning, and data Science**.  
 I build end-to-end ML pipelines — from data ingestion and feature engineering to model serving, APIs, and cloud deployment.
 
 Strong focus on:
